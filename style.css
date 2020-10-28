@@ -1,0 +1,52 @@
+body{
+ text-align: center;  
+   background-color: azure 
+}
+
+#announcement{
+   background-color:blue;
+    color: cornsilk;
+}
+
+h1{
+    color: crimson;
+    font: bold;
+}
+
+h5{
+    color: brown;
+    font:bold;
+}
+
+.campus_MainDiv{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.campus_MainDiv img{
+    width: 80%;
+}
+
+.Announcement iframe{
+    width: 98%;
+}
+
+.achievement{
+    font-size: 20px;
+    padding: 6px 22px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    width: 100%;
+    display: inline-block;
+}
+
+.achievement i{
+    float: right;
+}
+
+
+.achievement span{
+    float: left;
+}
